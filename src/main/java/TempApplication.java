@@ -6,4 +6,5 @@ public class TempApplication {
     }
     //别人做的修改
     //hh
+    //wechat pay
 }
